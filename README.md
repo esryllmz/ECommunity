@@ -1,4 +1,4 @@
-# BSATM
+# ECommunity
 
 Bu proje, basit ve şık bir web sayfası tasarımı örneğidir. HTML ve CSS kullanılarak hazırlanmıştır. Görseller **img** klasöründe yer almaktadır.
 
@@ -22,7 +22,7 @@ BSATM-main/
 
 1. Bu projeyi indirin veya klonlayın:
    ```bash
-   git clone https://github.com/esryllmz/BSATM.git
+   git clone https://github.com/esryllmz/ECommunity.git
    ```
 
 2. Proje klasörüne gidin:
